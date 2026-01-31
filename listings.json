@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/misc/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/stories/index.html",
+    "items": [
+      "/stories/Second Chances.html",
+      "/stories/The Tomato Plant Affair.html",
+      "/stories/Pumpkin.html"
+    ]
+  }
+]

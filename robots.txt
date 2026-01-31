@@ -1,0 +1,1 @@
+Sitemap: https://entwickelt.github.io/mojo-waffle-publish/sitemap.xml
